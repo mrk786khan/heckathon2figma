@@ -7,11 +7,9 @@ export default function Newstyle() {
       {/* First Div with Main Image */}
       <div className="w-full md:w-1/2 p-2 flex flex-row justify-center items-center">
         <div className="w-full h-full relative">
-        import Image from 'next/image';
-
-   <Image src="/newstyle/main.png" fill alt="description" />
-         
-          //<Image
+   
+   <Image src="/newstyle/main.png" fill alt="description" />       
+          <Image
             src="/newstyle/main.png"
            alt="Main Image"
             layout="responsive"
