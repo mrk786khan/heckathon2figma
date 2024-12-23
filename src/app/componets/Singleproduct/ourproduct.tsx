@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import React from 'react';
-//import { FaCartShopping } from "react-icons/fa6";
 import { FaCartShopping } from "react-icons/fa6"
 
 export default function OurProduct() {
