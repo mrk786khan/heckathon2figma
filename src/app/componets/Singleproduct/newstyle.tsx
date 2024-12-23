@@ -13,8 +13,8 @@ export default function Newstyle() {
             src="/newstyle/main.png"
            alt="Main Image"
             layout="responsive"
-            width={400}
-            height={560}
+            width={700}
+            height={400}
             className="object-cover shadow-lg" 
           />
         </div>
